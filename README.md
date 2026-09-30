@@ -16,6 +16,9 @@
 
 ### Spesifikasi Perangkat
 * **Sistem Operasi:** Windows 11
+* **Processor:** AMD Ryzen 7 4800H with Radeon Graphics (2.90 GHz)
 * **Kapasitas RAM:** 16 GB
+* **Graphics card:** AMD Radeon(TM) Graphics (496 MB)
+* **Storage:** 621 GB of 932 GB used
 * **Versi Node.js:** v24.21.0
 * **Versi Git:** 2.56.0
